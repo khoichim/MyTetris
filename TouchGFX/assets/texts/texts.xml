@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextDatabase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="texts.xsd" Version="4.26.1">
+  <Languages>
+    <Language Id="GB" />
+  </Languages>
+  <Texts>
+    <TextGroup Id="Group1" />
+    <TextGroup Id="Unsorted">
+      <Text Id="__SingleUse_Z5PU" Alignment="Center" TypographyId="Button">
+        <Translation Language="GB">&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_MJOD" Alignment="Center" TypographyId="Button">
+        <Translation Language="GB">&lt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_GFXW" Alignment="Center" TypographyId="Score">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_1MS0" Alignment="Center" TypographyId="Button">
+        <Translation Language="GB">SELECT LEVEL</Translation>
+      </Text>
+      <Text Id="__SingleUse_RPOO" Alignment="Center" TypographyId="Button">
+        <Translation Language="GB">MENU</Translation>
+      </Text>
+      <Text Id="__SingleUse_0ISG" Alignment="Center" TypographyId="Button">
+        <Translation Language="GB">PLAY AGAIN</Translation>
+      </Text>
+      <Text Id="__SingleUse_6O70" Alignment="Center" TypographyId="VerdanaBold20">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_91DQ" Alignment="Center" TypographyId="Label">
+        <Translation Language="GB">YOUR SCORE</Translation>
+      </Text>
+      <Text Id="__SingleUse_WIL8" Alignment="Center" TypographyId="GameOver">
+        <Translation Language="GB">GAME OVER</Translation>
+      </Text>
+      <Text Id="__SingleUse_VACA" Alignment="Left" TypographyId="VerdanaBold18">
+        <Translation Language="GB">PAUSED</Translation>
+      </Text>
+      <Text Id="__SingleUse_G3B0" Alignment="Right" TypographyId="Label">
+        <Translation Language="GB">NEXT</Translation>
+      </Text>
+      <Text Id="__SingleUse_TGYC" Alignment="Right" TypographyId="Score">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_6BE2" Alignment="Right" TypographyId="Label">
+        <Translation Language="GB">LINES</Translation>
+      </Text>
+      <Text Id="__SingleUse_UNF5" Alignment="Right" TypographyId="Score">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_OF03" Alignment="Right" TypographyId="Label">
+        <Translation Language="GB">LEVEL</Translation>
+      </Text>
+      <Text Id="__SingleUse_9JVG" Alignment="Right" TypographyId="Score">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_QLNS" Alignment="Right" TypographyId="Label">
+        <Translation Language="GB">Score</Translation>
+      </Text>
+      <Text Id="__SingleUse_KJQP" Alignment="Center" TypographyId="Calibri11">
+        <Translation Language="GB">Touch to play</Translation>
+      </Text>
+      <Text Id="__SingleUse_I4KU" Alignment="Center" TypographyId="Button">
+        <Translation Language="GB">START</Translation>
+      </Text>
+      <Text Id="__SingleUse_8T4F" Alignment="Center" TypographyId="Stm32">
+        <Translation Language="GB">STM32F429I</Translation>
+      </Text>
+      <Text Id="__SingleUse_65AF" Alignment="Center" TypographyId="Tiltle">
+        <Translation Language="GB">TETRIS</Translation>
+      </Text>
+      <Text Id="ResourceId1" Alignment="Left" TypographyId="Large">
+        <Translation Language="GB">New Text</Translation>
+      </Text>
+    </TextGroup>
+  </Texts>
+  <Typographies>
+    <Typography Id="VerdanaBold18" Font="verdanab.ttf" Size="18" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="Large" Font="verdana.ttf" Size="40" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="Small" Font="verdana.ttf" Size="10" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="Tiltle" Font="verdanab.ttf" Size="32" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="Stm32" Font="verdana.ttf" Size="14" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="Calibri11" Font="verdana.ttf" Size="11" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="Score" Font="verdanab.ttf" Size="18" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" WildcardCharacters="1234567890" />
+    <Typography Id="Label" Font="verdana.ttf" Size="11" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="Button" Font="verdanab.ttf" Size="14" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="GameOver" Font="verdanab.ttf" Size="26" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="VerdanaBold20" Font="verdanab.ttf" Size="20" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" WildcardCharacters="1234567890" />
+  </Typographies>
+</TextDatabase>
