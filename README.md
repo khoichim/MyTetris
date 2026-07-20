@@ -18,3 +18,6 @@
 PG2→LEFT, PG3→RIGHT, PF6→DROP
 PG9→ROT_L, PB6→ROT_R, PG14→PAUSE
 Tất cả nối qua breadboard → GND
+
+## Demo
+[https://drive.google.com/file/d/16BjBLv8Vxcj-vbPhXKiH642pW3AF6v8F/view?usp=sharing]
