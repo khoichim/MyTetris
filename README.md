@@ -7,7 +7,7 @@
 - 6 nút tactile switch + breadboard + dây jumper
 
 ## Cài đặt
-1. Clone repo: git clone <url>
+1. Clone repo: git clone <https://github.com/khoichim/MyTetris.git>
 2. Mở CubeIDE → File → Open Projects from File System
 3. Chọn thư mục MyTetris → Finish
 4. Project → Build All (Ctrl+B)
